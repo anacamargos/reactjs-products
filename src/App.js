@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 import Header from './components/header'
+import './styles.css';
 
 // const App = () => {
 //   <div className="App">
