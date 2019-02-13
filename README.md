@@ -6,6 +6,8 @@ Para ter acesso aos produtos da lista e aos dados de cada produto a aplicação 
 
 ### Como executar o projeto
 
+Para executar o projeto rode no terminal os seguintes comandos:
+
 ````
 git clone https://github.com/anacamargos/reactjs-products.git
 
