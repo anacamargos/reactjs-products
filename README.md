@@ -1,8 +1,8 @@
-# Front-end com ReactJS
+# Lista de produtos usando ReactJS
 
-O projeto foi desenvolvido usando ReactJS e tem como objetivo exibir na tela uma lista de produtos.
+O projeto foi desenvolvido usando ReactJS e tem como objetivo exibir na tela uma lista de produtos, e detalhes de cada um deles.
 
-Para ter acesso aos produtos da lista e aos dados de cada produto a aplicação consumiu uma API que já estava pronta, portanto o foco maior foi na parte do front-end.
+Para ter acesso aos produtos da lista e aos dados de cada produto a aplicação consumiu uma API que já estava pronta.
 
 ### Como executar o projeto
 
